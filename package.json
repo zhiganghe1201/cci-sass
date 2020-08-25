@@ -1,6 +1,6 @@
 {
-  "name": "@cci/sass",
-  "version": "0.0.1",
+  "name": "@cci-team/sass",
+  "version": "0.0.2",
   "description": "A modern alternative to Sass",
   "main": "index.js",
   "scripts": {
@@ -36,5 +36,19 @@
   },
   "pre-commit": [
     "lint-staged"
-  ]
+  ],
+  "directories": {
+    "doc": "docs",
+    "example": "examples",
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhiganghe1201/cci-sass.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhiganghe1201/cci-sass/issues"
+  },
+  "homepage": "https://github.com/zhiganghe1201/cci-sass#readme"
 }
