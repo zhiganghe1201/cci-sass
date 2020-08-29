@@ -1,6 +1,6 @@
 {
   "name": "@cci-team/sass",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A modern alternative to Sass",
   "main": "index.js",
   "scripts": {
