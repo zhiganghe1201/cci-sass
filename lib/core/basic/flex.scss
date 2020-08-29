@@ -63,9 +63,10 @@
 	flex-direction: column;
 }
 
-// 水平垂直对齐
 .g-flex-cc {
-	@include commonFlexCc;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
 .g-flex-ac {
